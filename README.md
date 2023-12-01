@@ -2,9 +2,6 @@
 Live Preview - [Click Here](amit-s-portfolio-426o.vercel.app/)
 
 <br/>
-<div align="center">
-  <img alt="Demo" src="public/mockup.png" />
-</div>
 <br/>
 <br/>
 

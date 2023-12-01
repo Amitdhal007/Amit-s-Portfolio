@@ -2,9 +2,6 @@
 Live Preview - [Click Here](amit-s-portfolio-426o.vercel.app/)
 
 <br/>
-<br/>
-<br/>
-
 # 🛠 Installation and Setup Instructions
 
 Clone down this repository. You will need node.js and git installed globally on your machine..
